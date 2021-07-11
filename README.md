@@ -44,3 +44,13 @@ Ensure that your work meets the full list of grading requirements below.
 Reach out to your classmates and instructional support team for help if you need it.
 
 Follow the submission instructions.
+
+## Problems
+Getting the password to generate upper case, lower case , numbers or symbols
+only getting one set of character not a combination
+# image Requisite for web site
+[](./assets/images/require.JPG)
+
+# My Project
+
+[](./assets/images/Final.JPG)

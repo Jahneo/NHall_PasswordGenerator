@@ -37,9 +37,9 @@ function Pass() {
         
            //Give users the option to choose the characters numbers etc they need in the password
             var upperCase = confirm("Should your password have upper letters?");
-            var lowCase = confirm("Should your password have lower letters?");
-            var numbers = confirm("Should your password have numbers?");
-            var symbols = confirm("Should your password have symbols?");
+            var lowCase   = confirm("Should your password have lower letters?");
+            var numbers   = confirm("Should your password have numbers?");
+            var symbols   = confirm("Should your password have symbols?");
 
             //check values and prompt is criteria should match secure password
             var getPrompt = {
@@ -58,7 +58,7 @@ function Pass() {
             else 
                 
             // if password dont have the right combination of letters symbols and number prompt to re- enter
-                 if((!upperCase)&&(!numbers)&&(!lowCase)&&(!symbols))
+                 if(((!upperCase)&&(!lowCase)&&(!numbers))||(!symbol))
                  alert("Secure password must have at least a upper case letter, a lowercase, a number and or a symbol ..Make a choice!!!...");
             
                  // if conditions are met leave the loop
