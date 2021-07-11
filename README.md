@@ -49,8 +49,8 @@ Follow the submission instructions.
 Getting the password to generate upper case, lower case , numbers or symbols
 only getting one set of character not a combination
 # image Requisite for web site
-[](./assets/images/require.JPG)
+![Requisite](./assets/images/require.JPG)
 
 # My Project
 
-[](./assets/images/Final.JPG)
+![Final](./assets/images/Final.JPG)
